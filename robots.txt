@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://israrahmednargund-codder.github.io/how-to-make-github-repository/sitemap.xml
