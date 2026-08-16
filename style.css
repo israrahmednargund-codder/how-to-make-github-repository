@@ -1088,3 +1088,44 @@ pre {
 
     line-height: 1.7;
 }
+
+
+
+
+
+/* =========================================
+   TABLE OF CONTENTS
+   ========================================= */
+
+.table-of-contents {
+    margin: 30px 0;
+    padding: 25px;
+
+    border: 1px solid #263247;
+    border-radius: 16px;
+
+    background: rgba(17, 24, 39, 0.8);
+}
+
+.table-of-contents h2 {
+    margin-top: 0;
+    margin-bottom: 18px;
+}
+
+.table-of-contents ul {
+    margin: 0;
+    padding-left: 25px;
+}
+
+.table-of-contents li {
+    margin: 8px 0;
+}
+
+.table-of-contents a {
+    color: #58a6ff;
+    text-decoration: none;
+}
+
+.table-of-contents a:hover {
+    text-decoration: underline;
+}
